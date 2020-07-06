@@ -6,7 +6,7 @@
     "browser-info": "^1.2.0",
     "clone": "^2.1.2",
     "lodash": "^4.17.15",
-    "loglevel": "^1.6.7",
+    "loglevel": "^1.6.8",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "query-string": "^6.11.1",
